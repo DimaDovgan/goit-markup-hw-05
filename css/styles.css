@@ -71,6 +71,9 @@ body {
   
 }
 /*----------------header-----------------*/
+.pt{
+  padding-top: 94px;
+}
 .pt-main{
 margin-top: 80px;
 }
